@@ -21,7 +21,7 @@ So if you are looking through this documentation, you either a. want to know how
 
 **TLDR:** Tell Blackboard and Panopto to extend support. If Panopto or Anthology isn't getting screwed in this situation, guess what. You are going to be screwed. 
 
-![GIF Image of a fire in a dumpster floating down a flooded area](assets/images/dumpter-fire-flood.gif)
+<!--![GIF Image of a fire in a dumpster floating down a flooded area](assets/images/dumpter-fire-flood.gif)-->
 
 #2. Ok. You aren't going to do number 1? *sigh* Ok then, well first understand the impact of this migration. Issues you should look at include:
 
